@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 /// Application color constants
 /// Used throughout the app for consistent theming
 class AppColors {
-  // Prevent instantiation
   AppColors._();
 
   /// Primary green color used for success states and main branding
